@@ -8,7 +8,7 @@ import { Login } from "./pages/Login";
 import { Logout } from "./pages/Logout";
 import { Navbar } from "./Components/Navbar";
 import { Error } from "./pages/Error";
-import { AdminLayout } from "./Components/layouts/admin_Layout";
+import { AdminLayout } from "./Components/layouts/AdminLayout";
 import { AdminContacts } from "./pages/Admin_Contacts";
 import { AdminUsers } from "./pages/Admin_Users";
 import { UpdateUser } from "./pages/Admin_Updatate";
